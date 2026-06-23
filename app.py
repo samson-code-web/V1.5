@@ -8,7 +8,7 @@ from streamlit_folium import st_folium
 
 st.set_page_config('IO', layout="wide")
 
-CLARITY_ID = "x9pvsc7155"
+CLARITY_ID = "xbciepc0n0"
 components.html(
     f"""
     <script type="text/javascript">
