@@ -93,7 +93,7 @@ elif bar == 'HELP':
         st.markdown('*By accounting for the vacancy rate, we ensure your projections remain realistic rather than optimistic. Your monthly outflow consists of two primary components:*')
         st.markdown('- *Monthly Mortgage Payment: Calculated using your loan amount, interest rate, and term length.*')
         st.markdown('- *Operating Charges: These include recurring costs such as property insurance, maintenance fees, and other fixed charges.*')
-
+        st.markdown('*I used both 2025 and 2026 dats from open Ottawa and CMHC*')
     with st.container():
         st.markdown('***Tip:** If your cash flow is negative, you should increase your personal contribution or the rent, or consider decreasing your expenses.*')
 
